@@ -1,33 +1,29 @@
 # Shmubbier@Dev
 
-> Third-Year Computer Science Student | Developer | Game Maker
+`Third-Year CS Student` · `Developer` · `Game Maker`
 
-## System Information
+---
 
-| Field | Information |
-|---|---|
-| **OS** | Windows 10, Android 14 |
-| **Uptime** | 20 years, 7 months, 26 days |
-| **Kernel** | Student 3rd-Year |
-| **IDE** | IntelliJ IDEA 2023.3.2, Zed 1.12.0 |
+### SYSTEM
 
-## Languages
+| OS | Uptime | Host | Kernel | IDE |
+|:---:|:---:|:---:|:---:|:---:|
+| Windows 10 / Android 14 | 20y | Student 3rd-Year | IDEA 2023.3.2 / Zed 1.12.0 |
 
-| Category | Technologies |
-|---|---|
-| **Programming** | Python, JavaScript, C# |
-| **Computer** | HTML, CSS, JSON |
-| **Natural** | English, Filipino, Kapampangan |
+### LANGUAGES
 
-## Hobbies & Interests
+| Programming | Computer | Natural |
+|:---:|:---:|:---:|
+| Python · JavaScript · C# | HTML · CSS · JSON | English · Filipino |
 
-- **Software:** Game Making, Console Hacking
-- **Hardware:** Physical Mods, PC Building
+### INTERESTS
 
-## Contact
+| Software | Hardware |
+|:---:|:---:|
+| Game Making · Console Hacking | Physical Mods · PC Building |
 
-| Platform | Contact |
-|---|---|
-| **Personal Email** | [cnergy19@gmail.com](mailto:cnergy19@gmail.com) |
-| **LinkedIn** | Shmubbi |
-| **Discord** | `ten._.ten` |
+### CONTACT
+
+| Personal Email | LinkedIn | Discord |
+|:---:|:---:|:---:|:---:|
+| [cnergy19@gmail.com](mailto:cnergy19@gmail.com) | Shmubbi | `ten._.ten` |
