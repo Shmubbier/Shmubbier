@@ -1,9 +1,6 @@
 # Shmubbier@Dev
 
 `Third-Year CS Student` · `Developer` · `Game Maker`
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
 
 <img data-importer="image" align="right" height="150" src="https://static2.klipy.com/ii/8ce8357c78ea940b9c2015daf05ce1a5/87/0f/M5v2V1VR.gif"  />
 
